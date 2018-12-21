@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Payment Initiation Demo</string>
+
+    <!-- redirect scheme -->
+    <string name="oauth_redirectHost">auth_code</string>
+    <string name="oauth_redirectScheme">ftb.demo.app</string>
+
+    <!-- main activity -->
+    <string name="mainActivity_backendUrl_hint">Backend URL</string>
+    <string name="mainActivity_createPayment">Create payment</string>
+    <string name="mainActivity_withDebtorData">With debtor data</string>
+    <string name="mainActivity_instructedAmount">Instructed amount</string>
+    <string name="mainActivity_instructedAmount_hint">Instructed amount</string>
+    <string name="mainActivity_instructedAmountCurrency_hint">Instructed amount currency</string>
+    <string name="mainActivity_creditorAccount">Creditor account</string>
+    <string name="mainActivity_creditorAccountIdentification_hint">Creditor account identification</string>
+    <string name="mainActivity_creditorAccountName_hint">Creditor account name</string>
+    <string name="mainActivity_creditorAccountSchemeName_hint">Creditor account scheme name</string>
+    <string name="mainActivity_creditorSecondaryIdentification_hint">Creditor secondary identification</string>
+    <string name="mainActivity_creditorAgent">Creditor agent</string>
+    <string name="mainActivity_creditorAgentSchemeName_hint">Creditor agent scheme name</string>
+    <string name="mainActivity_creditorAgentIdentification_hint">Creditor agent identification</string>
+    <string name="mainActivity_remittanceInformation">Remittance information</string>
+    <string name="mainActivity_remittanceInformationReference_hint">Remittance information reference</string>
+    <string name="mainActivity_remittanceInformationUnstructured_hint">Remittance information unstructured</string>
+    <string name="mainActivity_instructionIdentification_hint">Instruction identification</string>
+    <string name="mainActivity_endToEndIdentification_hint">End to end identification</string>
+    <string name="mainActivity_debtorAgent">Debtor agent</string>
+    <string name="mainActivity_debtorAgentSchemeName_hint">Debtor agent scheme name</string>
+    <string name="mainActivity_debtorAgentIdentification_hint">Debtor agent identification</string>
+    <string name="mainActivity_debtorAccount">Debtor account</string>
+    <string name="mainActivity_debtorAccountSchemeName_hint">Debtor account scheme name</string>
+    <string name="mainActivity_debtorAccountIdentification_hint">Debtor account identification</string>
+    <string name="mainActivity_debtorAccountName_hint">Debtor account name</string>
+    <string name="mainActivity_debtorAccountSecondaryIdentification_hint">Debtor account secondary identification</string>
+    <string name="mainActivity_createPaymentButton_text">Create payment</string>
+    <string name="mainActivity_statusText">Status: %s</string>
+</resources>
